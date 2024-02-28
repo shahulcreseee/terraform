@@ -1,0 +1,4 @@
+name: shak-eastus-rg
+location: eastus
+tags:
+  environment: dev
